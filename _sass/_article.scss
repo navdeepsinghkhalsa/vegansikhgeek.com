@@ -27,11 +27,14 @@
 }
 
 .post-thumbnail {
+  margin-bottom: 2.4em;
+}
+
+a.post-thumbnail {
   background-position: center;
   background-size: cover;
   display: block;
   height: 145px;
-  margin-bottom: 2.4em;
 
   &:hover {
     opacity: 0.85;
@@ -122,5 +125,11 @@
     font-size: 12px;
     font-size: 1.2rem;
     padding: 5% 10%;
+  }
+}
+
+.post {
+  .post-thumbnail {
+    height: auto;
   }
 }
