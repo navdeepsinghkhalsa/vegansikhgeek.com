@@ -9,6 +9,7 @@ $six: 59.6875em;
 @import
   "{{ site.theme }}",
   "sidebar",
+  "article",
   "pagination",
   "archive";
 
@@ -44,6 +45,10 @@ $six: 59.6875em;
 
 .icon-calendar:before {
   content: "\e953";
+}
+
+.icon-user:before {
+  content: "\e971";
 }
 
 .icon-arrow-right2:before {
@@ -87,12 +92,20 @@ a {
   }
 }
 
+header {
+  float: none;
+  position: relative;
+  width: auto;
+}
+
 .wrapper {
   max-width: 1403px;
   width: 100%;
 }
 
 article,
+header,
+footer,
 main,
 nav {
   display: block;
