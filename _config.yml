@@ -27,6 +27,7 @@ paginate_path: "/page/:num"
 permalink: /:title
 
 post-images: /assets/images/
+post-thumbnails: /assets/images/thumbs/
 
 # Build settings
 markdown: kramdown

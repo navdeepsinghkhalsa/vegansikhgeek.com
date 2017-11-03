@@ -3,9 +3,9 @@ layout: default
 ---
 <article class="hentry post{% if page.image %} has-post-thumbnail{% endif %}" itemscope itemtype="http://schema.org/BlogPosting">
 
-  {% if page.thumbnail %}
+  {% if page.image %}
     <div class="post-thumbnail">
-      <img src="{{ site.post-images }}{{ page.thumbnail }}">
+      <img src="{{ site.post-thumbnails }}{{ page.image }}">
     </div>
   {% endif %}
 
@@ -40,7 +40,7 @@ layout: default
 
   <div class="post-list">
     {% if page.previous.url %}
-      <div style="background-image: url({{ site.post-images }}{{ page.previous.thumbnail }});">
+      <div style="background-image: url({{ site.post-thumbnails }}{{ page.previous.image }});">
         <a class="post-link" href="{{ page.previous.url }}">
           <span class="post-meta">Previous</span>
           <h2>
@@ -50,7 +50,7 @@ layout: default
       </div>
     {% endif %}
     {% if page.next.url %}
-    <div style="background-image: url({{ site.post-images }}{{ page.next.thumbnail }});">
+    <div style="background-image: url({{ site.post-thumbnails }}{{ page.next.image }});">
       <a class="post-link" href="{{ page.next.url }}">
         <span class="post-meta">Next</span>
         <h2>
