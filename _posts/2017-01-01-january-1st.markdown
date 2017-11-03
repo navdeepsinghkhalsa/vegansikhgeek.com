@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: January 1st
+author:
+  display_name: Navdeep Singh
+  login: vsg
+  email: me@navdeepsingh.ca
+  url: http://www.navdeepsingh.ca
+author_login: vsg
+author_email: me@navdeepsingh.ca
+author_url: http://www.navdeepsingh.ca
+wordpress_id: 379
+wordpress_url: http://www.vegansikhgeek.com/?p=379
+image: 
+date: '2017-01-01 12:06:11 -0800'
+date_gmt: '2017-01-01 20:06:11 -0800'
+categories:
+- Sikhi
+- Life
+tags: []
+comments: []
+---
+<p>Some might think as I did and, to an extent, still do that January 1st is just another day on an arbitrary calendar created by a pope in the 16th century, and is no cause for celebration. I don't really really have a need to ring it in at midnight either but, to me at my stage in my spiritual life, it does serve great purpose for a few reasons: it is a representation of new beginnings, new outlooks, and new goals, while being a time to reflect on the just-passed year. It is a representation of what I would like to have as my daily ritual. Indeed, each day that passes is cause for reflection and each new day is a blessing and I will make strides to internalize this mindset.</p>
+<hr />
+<p>Last month my whole family got sick (and it's still affecting us weeks later) and the month of fitness took a back seat. <a href="https://www.patreon.com/vegansikhgeek" target="_blank">Join me on Patreon</a> to work together on our goals.</p>

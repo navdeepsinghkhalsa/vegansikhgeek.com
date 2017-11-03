@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Phoenix
+author:
+  display_name: Navdeep Singh
+  login: vsg
+  email: me@navdeepsingh.ca
+  url: http://www.navdeepsingh.ca
+author_login: vsg
+author_email: me@navdeepsingh.ca
+author_url: http://www.navdeepsingh.ca
+wordpress_id: 7
+wordpress_url: http://vegansikhgeek.com/from-out-of-the-ashes-of-fire-rises-the-phoenix/
+image: 
+date: '2013-10-16 13:57:38 -0700'
+date_gmt: '2013-10-16 13:57:38 -0700'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<blockquote>
+<p dir="ltr">From out of the ashes of fire rises the phoenix, reborn.</p>
+</blockquote>
