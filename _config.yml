@@ -26,6 +26,11 @@ paginate_path: "/page/:num"
 
 permalink: /:title
 
+defaults:
+  -
+    values:
+      author: "navdeepsingh"
+
 post-images: /assets/images/
 post-thumbnails: /assets/images/thumbs/
 

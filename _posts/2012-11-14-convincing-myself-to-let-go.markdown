@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Convincing Myself to Let Go
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 22
-wordpress_url: http://vegansikhgeek.com/convincing-myself-to-let-go/
 image: 
 date: '2012-11-14 12:00:38 -0800'
 date_gmt: '2012-11-14 20:00:38 -0800'
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>The following is a dramatized conversation I had with myself recently in letting go of a relationship.</p>
 <p>"You need to move on. This has gone on long enough."</p>

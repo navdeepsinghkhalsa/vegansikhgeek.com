@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: The Internet is killing English
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 58
-wordpress_url: http://vegansikhgeek.com/the-internet-is-killing-english/
 image: 
 date: '2011-03-18 16:23:22 -0700'
 date_gmt: '2011-03-18 16:23:22 -0700'
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>"There's so many people here!"<br /><br />
 "Your going to the beach right?"<br /><br />

@@ -1,18 +1,5 @@
 ---
-layout: post
-status: publish
-published: true
 title: Weekly Gems
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 336
-wordpress_url: http://www.vegansikhgeek.com/?p=336
 image: 
 date: '2016-10-15 07:45:01 -0700'
 date_gmt: '2016-10-15 14:45:01 -0700'
@@ -22,8 +9,6 @@ categories:
 - Life
 - Tech
 - Veganism
-tags: []
-comments: []
 ---
 <p>I'd like to take a page out of the book of one of my favourite writers, Joshua Becker of <a href="http://www.becomingminimalist.com/" target="_blank">Becoming Minimalist</a>. Each weekend, I'd like to give you some insight into what I've been reading, doing, or trying. Topics will commonly fall into the categories about which I blog: minimalism, life, veganism, and even tech (I am the Vegan Sikh Geek after all!)</p>
 <p>Prepare a cup or mug of your favourite warm beverage and have a read and listen. Peace and blessings</p>

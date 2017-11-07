@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Who Am I?
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 49
-wordpress_url: http://vegansikhgeek.com/who-am-i/
 image: 
 date: '2012-07-11 15:24:42 -0700'
 date_gmt: '2012-07-11 22:24:42 -0700'
 categories:
 - Sikhi
-tags: []
-comments: []
 ---
 <p><strong>Note: This post is going up unfinished, with multiple introductions, incomplete thoughts, improperly referenced statements, grammatical errors, spelling mistakes and bad layout. Too many thoughts, arguments and counter-arguments started flowing and the inability to document them in a coherent way led to the decision to simply publish as-is.</strong></p>
 <p>My brother Paneet Singh, with his <a href="http://paneetsingh.blogspot.ca/2012/06/terms-and-conditions.html" target="_blank">great commentary</a> for a brilliant (and hilarious) video he made pertaining to groups/labels, and the documentary Freakonomics, with a segment on names and what they say about you, both got me thinking: Who am I? What label do I apply to myself? Under what banner do I stand?</p>

@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Disney Magic
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 72
-wordpress_url: http://vegansikhgeek.com/disney-magic/
 image: 
 date: '2010-06-13 00:28:13 -0700'
 date_gmt: '2010-06-13 00:28:13 -0700'
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>Arshdeep Kaur and I just got back from a vacation to California a few days ago. We spent 3 days at Disneyland/California Adventures and a day at Universal Studios. We'd meant to spend a day at Six Flags Magic Mountain, but will talk about the vacation itself in another (probably longer) post, Insha'Allah.</p>
 <p><strong>Disney &amp; Mickey</strong></p>

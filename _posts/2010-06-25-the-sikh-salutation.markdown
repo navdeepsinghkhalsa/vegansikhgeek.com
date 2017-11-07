@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: The Sikh Salutation
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 69
-wordpress_url: http://vegansikhgeek.com/the-sikh-salutation/
 image: 
 date: '2010-06-25 15:21:23 -0700'
 date_gmt: '2010-06-25 22:21:23 -0700'
 categories:
 - Sikhi
-tags: []
-comments: []
 ---
 <p>Photo Credit: <a href="http://www.flickr.com/photos/28248427@N08/2973711659/" target="_blank">Akiratghanare on Flickr</a></p>
 <p><em>The following is my opinion, just like almost everything on this blog. Please don't judge Sikhi based on my opinions.</em></p>

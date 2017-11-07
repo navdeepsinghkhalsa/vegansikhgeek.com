@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Break Free
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 116
-wordpress_url: http://www.vegansikhgeek.com/?p=116
 image: 
 date: '2015-03-20 07:00:36 -0700'
 date_gmt: '2015-03-20 14:00:36 -0700'
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>A number of years ago, my family and I were visiting relatives across the country and happened to be there for a cousin's birthday. His grandfather came into the house after a long security shift, saw his grandson and his face lit up. He went over to him and shook his hand. My cousin was surrounded by other kids his age and was coming to the stage where he was very self-conscious of how "cool" his exchanges were with others. The grandpa was speaking in Punjabi while the boy was speaking back in English.<br />
 The grandfather said, "Yaar (buddy), I bought a new hat for you!" A simple thanks would have made his grandfather happy but, of course, not just any hat would do for a boy with a reputation to build. He asked, "Oh, yeah? What brand?" With an incredulous look on his face, the grandfather replied, in English, "Yaar, brand new!"</p>

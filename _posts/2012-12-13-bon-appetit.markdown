@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Bon app&eacute;tit
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 19
-wordpress_url: http://vegansikhgeek.com/bon-appetit/
 image: 
 date: '2012-12-13 16:00:57 -0800'
 date_gmt: '2012-12-13 16:00:57 -0800'
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>This is for guys like me who, when hungry, much sooner reach for the cereal box than the spatula. Let's face it: who wants to spend an hour making something when a bowl of cereal can be ready to eat in less than 2 minutes? Sandwiches can be easy enough, with preparation sometimes taking 15 minutes, but even that feels like forever when the stomach is rumbling.</p>
 <p>The problem is that desire for instant gratification. Much like when we try to recall something, Wikipedia (<a href="https://donate.wikimedia.org" target="_blank">who needs donations</a>, by the way - come on now, let's all pitch in), IMDb, Google, and other websites can deliver right away. Our brains learn to depend on this and start to retain less information. When we work a little to remember or figure out something, the reward is much more satisfying and we're more likely to recall it easier next time. See where I'm going with this?</p>

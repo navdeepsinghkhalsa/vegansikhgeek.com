@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Accountability
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 114
-wordpress_url: http://www.vegansikhgeek.com/?p=114
 image: 
 date: '2015-02-20 07:00:03 -0800'
 date_gmt: '2015-02-20 15:00:03 -0800'
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p><em>"What? Now?"</em><br />
 "I have to. I told them I would or I would give them each $25."<br />

@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Reader Question: Is Organic Milk Cruelty-Free?'
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 31
-wordpress_url: http://vegansikhgeek.com/is-organic-milk-cruelty-free/
 image: 
 date: '2012-08-24 20:29:18 -0700'
 date_gmt: '2012-08-25 03:29:18 -0700'
 categories:
 - Veganism
-tags: []
-comments: []
 ---
 <blockquote>Is organic milk cruelty free?</blockquote>
 <p>It can be, though not necessarily. Dairy being organic and dairy being cruelty-free are exclusive from one another. It can be cruelty-free but not organic, and organic but not cruelty-free. It could be both and it could be neither. I would define dairy as being cruelty-free if it met the following criteria at minimum:</p>

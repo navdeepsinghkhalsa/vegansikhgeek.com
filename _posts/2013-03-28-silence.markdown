@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Silence
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 15
-wordpress_url: http://vegansikhgeek.com/silence/
 image: 
 date: '2013-03-28 03:09:00 -0700'
 date_gmt: '2013-03-28 10:09:00 -0700'
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>Recently, I found myself without a radio in my car for three weeks. This meant no news-talk radio, traffic alerts, or Keertan (hymns). Not a problem, I thought. This would be a great time for introspection.</p>
 <p>While I would start out great at the beginning of drives, I found myself more and more finding other things to do, from reciting and singing hymns (great) to doing play-by-play commentary for the drive (fun) to reading signs aloud in an announcers voice (great fun and practical).</p>

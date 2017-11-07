@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Perspective
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 331
-wordpress_url: http://www.vegansikhgeek.com/?p=331
 image: 
 date: '2016-11-29 09:00:14 -0800'
 date_gmt: '2016-11-29 17:00:14 -0800'
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>There come many times in life that seem to automatically change the way we look at things. While a number could be named and discussed, such as birth, graduation, moving, marriage, injury, etc, the one I'd like to focus on is loss.</p>
 <p>A loved one passes away and suddenly everything changes. Arguments in the past that somehow seemed important become meaningless, appreciation is gained for the little things that will be remembered, and occurrences in the new reality that once may have bothered us seem laughably insignificant. Whereas we once might have spent much time doing things such as collecting possessions, holding grudges, or ruminating, being awoken to the reality that life has an ending paints a clearer picture of what is important: to cherish what we have.</p>

@@ -1,26 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: The Goldilocks Zone
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 165
-wordpress_url: http://www.vegansikhgeek.com/?p=165
 image: 
 date: '2015-03-06 14:12:59 -0800'
 date_gmt: '2015-03-06 22:12:59 -0800'
 categories:
 - Minimalism
 - Life
-tags: []
-comments: []
 ---
 <p>In astronomy, there's a term which refers to a region in relation to a star in which liquid water can be sustained on the surface of a rocky planet: Goldilocks Zone. Astronomers look for Goldilocks planets because life as we know it could possibly be found in such conditions. It's the state of our own beautiful Earth.</p>
 <p>We all know the story of Goldilocks, where the little girl goes to the bears' house and samples their possessions, to find that there are three of each; one for each member of the family. She finds that one is always exceeding in the quality she desires, one is always lacking, and the Baby Bear's is "just right". This "not too much, not too little, just right" idea is the basis of the <a title="Goldilocks Principle" href="http://en.wikipedia.org/wiki/Goldilocks_principle" target="_blank">Goldilocks Principle</a>.</p>

@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Vegan
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 62
-wordpress_url: http://vegansikhgeek.com/vegan/
 image: 
 date: '2010-09-17 04:52:59 -0700'
 date_gmt: '2010-09-17 11:52:59 -0700'
 categories:
 - Veganism
-tags: []
-comments: []
 ---
 <p>I'm vegan. It wasn't always easy. It started with a video. I was watching PETA's <a href="http://www.peta.org/issues/animals-used-for-food/default.aspx" target="_blank">Meet Your Meat</a> video and, being a vegetarian already, it was only strengthening my stand to not eat animals. Then came a part about dairy cows and things changed. I started to seriously question the intake of dairy. I read about animal cruelty and watched some more videos. I looked into alternatives to milk and talked to a couple of people about veganism. It seemed to me as if, for them, it was an ideal but almost unattainable. It was during one conversation when it clicked: "I'm done. No more dairy." It was all God's blessings of will power after that. I talked to my parents and they gave me their support. Out went the milk, butter, cheese, ice cream and milk chocolate. In came the soy, oils and chemicals. I was vegan.</p>
 <p>No processed food that listed any type of animal (by)product would be consumed and, for good health, I also cut out the caffeine. This meant a lot of foods that I ate regularly. Cereal is a big thing for me. I had to be able to have cereal. Regular soy milk had a bad after-taste, but vanilla-flavoured soy milk with Rice Krispies was a breakfast fit for royalty. As good as it may have been, my body didn't agree with too much soy. Out went soy milk and soy ice cream and in came almond milk and… well, I chose to not eat ice cream. Some time later, I learned of a few of dairies that treated their cows humanely and didn't give them growth hormones or anything. Collectively, they had organic milk, butter, cheese and ice cream. Brilliant! Out went the almond milk and margarine. I only trusted these places and still didn't consume any processed food with any sort of dairy/animal product. I was a strict lacto-vegetarian.</p>

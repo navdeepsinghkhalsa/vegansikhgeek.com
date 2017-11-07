@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% assign author = site.data.authors[page.author] %}
 <article class="hentry post{% if page.image %} has-post-thumbnail{% endif %}" itemscope itemtype="http://schema.org/BlogPosting">
 
   {% if page.image %}
@@ -28,7 +29,7 @@ layout: default
       </span>
       <span class="byline">
         <span class="icon-user"></span>
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author.display_name }}</span></span>
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></span>
       </span>
       <span class="cat-links">
         <span class="icon-folder-open"></span>

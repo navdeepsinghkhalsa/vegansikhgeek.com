@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: This Moment
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 239
-wordpress_url: http://www.vegansikhgeek.com/?p=239
 image: 
 date: '2015-04-23 13:00:15 -0700'
 date_gmt: '2015-04-23 20:00:15 -0700'
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>This moment is unique. Never again will it come to pass. It can't be relived, nor can it be duplicated.</p>
 <p>This isn't to say that opportunities will not come again. If my choice's outcome wasn't "favourable," it will not have been a waste if I learned something from it. I can't be so attached to a previous moment that I don't recognize that a new one is upon me.</p>

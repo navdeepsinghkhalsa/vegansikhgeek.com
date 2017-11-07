@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'A Month Without: Video &amp; Last Month''s Results'
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 6
-wordpress_url: http://vegansikhgeek.com/a-month-without-video-last-months-results/
 image: 
 date: '2013-11-04 00:30:00 -0800'
 date_gmt: '2013-11-04 08:30:00 -0800'
 categories:
 - Minimalism
-tags: []
-comments: []
 ---
 <p><span>Too long for your interest/time? Check the tl;dr.</span></p>
 <p><span>Not interested in my clutter experiment but want to read about next month? Skip the next three paragraphs.</span></p>

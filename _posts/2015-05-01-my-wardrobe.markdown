@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: My Wardrobe
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 161
-wordpress_url: http://www.vegansikhgeek.com/?p=161
 image: 
 date: '2015-05-01 12:57:13 -0700'
 date_gmt: '2015-05-01 19:57:13 -0700'
 categories:
 - Minimalism
-tags: []
-comments: []
 ---
 <p>Twenty months ago, I took all the clothes I had, save for a few, and put them in a suitcase in the basement. I went a month without my favourite clothing and stuck to simplicity. It was predictable and I never had to think for more than a second about what I was going to wear.</p>
 <p>Sometimes I get asked about how that's going, and the answer is always that I love it! It's the best decision that I've ever taken with regards to the clothes that I wear. As stated above, I never have to think about what I'm going to wear. I reach into my closet and the shirt that comes into my hand is the one I wear, and I pick a hoodie, sweater or cardigan based on the weather or whichever happens to be closest to my hand.</p>

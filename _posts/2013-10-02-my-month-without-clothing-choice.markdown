@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: My Month Without Clothing Choice
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 8
-wordpress_url: http://vegansikhgeek.com/a-month-without-clutter-last-months-results/
 image: 
 date: '2013-10-02 04:47:24 -0700'
 date_gmt: '2013-10-02 11:47:24 -0700'
 categories:
 - Minimalism
-tags: []
-comments: []
 ---
 <p>Interested in my next experiment but don't want to read about the last one? <a href="#octoberexperiment" target="_blank">Skip ahead.</a></p>
 <p>At the end of August, I took most of my clothes out of the closet and put them in a suitcase. I left the plain clothes and made a list of what kinds of clothes I would wear to different kinds of events. Gone were the never-worn, hardly-worn and well-worn clothes without discrimination and left were jeans, white t-shirts and black t-shirts to constitute my daily wear along with a couple of hoodies to keep me warm on chilly days. I threw in a sweater or two for wearing to dinners and lunches and I had myself a complete wardrobe for daily life. I kept a suit and a white button-up shirt in case I was invited to a western wedding (no such luck) and traditional Punjabi and Sikh clothing for relevant occasions.</p>

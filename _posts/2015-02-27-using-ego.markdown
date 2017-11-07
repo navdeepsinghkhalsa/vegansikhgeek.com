@@ -1,26 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: Using Ego
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 163
-wordpress_url: http://www.vegansikhgeek.com/?p=163
 image: 
 date: '2015-02-27 07:00:24 -0800'
 date_gmt: '2015-02-27 15:00:24 -0800'
 categories:
 - Sikhi
 - Life
-tags: []
-comments: []
 ---
 <p>Five basic vices plague all of us who haven't yet learned to control them: lust, anger, greed, worldly attachment, and ego. While ridding ourselves of them is nigh impossible, even suggesting or attempting to do so isn't advisable as they're needed to some degree to fulfill the human experience. However, when they are left out of control, truth, contentment, compassion, righteousness, and peace are left with less and less room in our mind.</p>
 <p>Some argue that even these five vices really just boil down to ego. There's no question that it's powerful and can be very dangerous when left unchecked. While working on getting full control of the reigns of our ego, we can still utilize its power for our own benefit. That is, we can set ourselves up for success by making the alternative a damaged ego. In last week's post, I talked about how I used the announcement of this blog as my drive to keep it going. The possible embarrassment of letting it fizzle and being called out on it is something on which I'm counting so as to not let it happen. Similarly, I announced a while back on Facebook that I would post an unflattering photo of myself if I watched Netflix before cleaning out the garage. Wouldn't you know it? The garage was clean in a hurry.</p>

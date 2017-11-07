@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: I Was Wrong
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 351
-wordpress_url: http://www.vegansikhgeek.com/?p=351
 image: 
 date: '2016-11-09 12:24:32 -0800'
 date_gmt: '2016-11-09 20:24:32 -0800'
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>I dismissed it. I thought it was an impossibility. There wasn't a piece of me that believed it would come to pass. I was wrong.</p>
 <p>Donald Trump won the election. I didn't think it could happen after everything that was revealed about his character. I didn't think a person who starts wars on Twitter after one sentence of criticism could be elected into the position that receives the most criticism in the United States. I didn't believe that someone who rejects climate science could be appointed into a position that would have the most ears when spoken about publicly. There were other things I didn't believe, but the idea isn't for this post to be a passive-aggressive speech on election results.</p>

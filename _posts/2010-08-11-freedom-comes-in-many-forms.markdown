@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Freedom Comes In Many Forms
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 66
-wordpress_url: http://vegansikhgeek.com/freedom-comes-in-many-forms/
 image: 
 date: '2010-08-11 16:53:42 -0700'
 date_gmt: '2010-08-11 16:53:42 -0700'
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>On August 2, 2010, Arshdeep Kaur turned 25. As a surprise, I told her that we were going to go somewhere and that she needed to close her eyes. I encouraged her to get some shut-eye to pass some time, and so she wouldn't know which direction we were going. It was a bit of a drive, so it was alright for her to open them when there weren't road signs visible. We hopped on to the Sea-to-Sky and made our way up to Whistler and turned right on a dirt road just before the village. After parking, and still with her eyes closed, we walked to the sign where she was allowed to open her eyes. Check out the video to see her reaction.</p>
 <p><a href="http://vimeo.com/14052947" target="_blank">Arshdeep Kaur's 25th Birthday Surprise</a></p>

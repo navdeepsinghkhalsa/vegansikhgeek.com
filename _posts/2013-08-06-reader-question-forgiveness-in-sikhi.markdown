@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Reader Question: Forgiveness in Sikhi'
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 11
-wordpress_url: http://vegansikhgeek.com/thoughts-on-forgiveness-in-sikhi-should-sikhs/
 image: 
 date: '2013-08-06 00:21:06 -0700'
 date_gmt: '2013-08-06 07:21:06 -0700'
 categories:
 - Sikhi
-tags: []
-comments: []
 ---
 <blockquote>Thoughts on forgiveness in Sikhi .... Should Sikhs only seek and expect forgiveness for mistakes from their guru or can they expect this from fellow Sikhs and sangat?</blockquote>
 <p>Vaahiguroo Jee Kaa Khaalsaa, Vaahiguroo Jee Kee Fateh</p>

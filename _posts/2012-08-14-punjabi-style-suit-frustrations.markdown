@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Punjabi-Style Suit Frustrations
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 38
-wordpress_url: http://vegansikhgeek.com/punjabi-style-suit-frustrations/
 image: 
 date: '2012-08-14 00:34:45 -0700'
 date_gmt: '2012-08-14 07:34:45 -0700'
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>Photo Credit: <a href="https://www.flickr.com/photos/angelacoles/378037941/">Angela Coles</a></p>
 <p>Why would a man be frustrated with Punjabi suits, a female article of clothing? As husbands, we have to either be involved in or witness/hear about the incredible inefficiency that is the preparation, dawning and removal of these ridiculous garments. As you read this, keep in mind I'm mostly referring to the fancy, decorative suits which are more trouble than they're worth.</p>

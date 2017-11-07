@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Happy New Day
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 18
-wordpress_url: http://vegansikhgeek.com/happy-new-day/
 image: 
 date: '2013-01-01 06:09:25 -0800'
 date_gmt: '2013-01-01 06:09:25 -0800'
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>December 31, 2012</p>
 <p>It's wonderful to see celebrations of an upcoming new year by so many people. All around me people are setting resolutions for 2013, thanking family and friends for an amazing year, reflecting on actions in the past year and looking ahead to intentions set for the next year. It's a fantastic reminder for me of the cycle we should go through every day. Let's be thankful for the loved ones in our lives, and the blessings we receive every day. Let's aim to be better people today than we were yesterday.</p>

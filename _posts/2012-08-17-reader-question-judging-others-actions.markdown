@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Reader Question: Judging Others'' Actions'
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 34
-wordpress_url: http://vegansikhgeek.com/is-it-right-to-challenege-people-on-their-actions/
 image: 
 date: '2012-08-17 20:17:33 -0700'
 date_gmt: '2012-08-17 20:17:33 -0700'
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <blockquote>Is it right to challenege people on their actions/ words when they contradict the beliefs they say they hold? Or should we not judge, let it pass and concentrate on our oneness as opposed to our differences? Sometimes I can not let things go, and I start sounding preachy or very opinionated. I feel like this is not the right approach??</blockquote>
 <p>I pray that I am able to respond to your questions and not misrepresent the teachings of my spiritual teacher, Sri Guru Granth Sahib Ji.</p>

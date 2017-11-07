@@ -1,26 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: Sugar
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 345
-wordpress_url: http://www.vegansikhgeek.com/?p=345
 image: 
 date: '2016-11-24 23:02:13 -0800'
 date_gmt: '2016-11-25 07:02:13 -0800'
 categories:
 - Life
 - Veganism
-tags: []
-comments: []
 ---
 <p>A few days after Halloween, I was giving my daughter a piece of candy as part of her allowance from her Trick-or-Treating loot. As I gave it to her, she started munching on it right away with great fervour. As I began my lesson to her to think about the long game of enjoying less over more time, I said, "You know, if you bite the candy, it will finish more quickly -" to which she promptly and excitedly replied, "I know!"</p>
 <p>There's no question that she gets her sweet tooth from me. My wife can't eat more than a single piece of anything sweet before needing to move on. I actually used to feel bad for her that she couldn't enjoy an assortment of sweets if there was, for example, more than one kind of cupcake or doughnut.</p>

@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: New Vegetarian Belt and Shoes
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 73
-wordpress_url: http://vegansikhgeek.com/new-vegetarian-belt-and-shoes/
 image: 
 date: '2010-05-23 03:53:34 -0700'
 date_gmt: '2010-05-23 10:53:34 -0700'
 categories:
 - Veganism
-tags: []
-comments: []
 ---
 <p>I want to give a big shout out to three vegan stores. I got a belt from <a href="http://www.thevegancollection.com" target="_blank">The Vegan Collection</a>, The Captain, and it's fantastic. It's the best synthetic leather belt I've ever touched. I ordered two, one for my dad and one for me, and both times I received a personal, hand-written thank-you note on the receipt. This a very environment-conscious store; even their receipts are printed on recycled paper.</p>
 <p>I was looking for synthetic leather dress shoes and The Vegan Collection directed me towards <a href="http://www.alternativeoutfitters.com" target="_blank">Alternative Outfitters</a>. From there I ordered the <a href="http://www.alternativeoutfitters.com/soft-stags-mens-naples-black-vegan-loafer.aspx" target="_blank">Soft Stags loafers</a>. I wore them on Friday, and they're really comfortable. I think they might crease faster than genuine leather, but that's a trade-off I'm willing to deal with.</p>

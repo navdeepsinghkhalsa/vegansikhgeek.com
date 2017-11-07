@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Life Happens
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 315
-wordpress_url: http://www.vegansikhgeek.com/?p=315
 image: 
 date: '2016-09-26 19:00:35 -0700'
 date_gmt: '2016-09-27 02:00:35 -0700'
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>I got serious about this blog last year and kept at it for a few months with great intent. I had friends holding me accountable and received great feedback from readers. I was amazed to hear from friends who told me that they started reading from a single post and went back to read every other post, even from years ago. It gave me such encouragement, and I personally was getting much out of being able to write down thoughts.</p>
 <p>But then I stopped.</p>

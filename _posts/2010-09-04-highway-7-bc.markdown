@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Highway 7, BC
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 64
-wordpress_url: http://vegansikhgeek.com/highway-7-bc/
 image: 
 date: '2010-09-04 17:19:00 -0700'
 date_gmt: '2010-09-04 17:19:00 -0700'
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>A post about a road? Yes. That's how awesome it is. It's not just any road; it's <a href="http://www.scenic7bc.com/" target="_blank">Highway 7</a>, BC. Definitely take this road if you're planning a trip to Harrisson Hot Springs or Hope.</p>
 <p>Because I work so close to Lougheed Highway, I decided to take that to <a href="http://www.singhscamp.com/" target="_blank">Singhs Camp</a>, which was in Hope, after work on Wednesday rather than endure the rush-hour traffic on the Port Mann Bridge. I couldn't be happier with the decision. This was one of the most peaceful and beautiful drives I've ever had. I couldn't stop marvelling at the beauty of the scenery and cities I passed. From quaint houses to expansive farms to epic mountains, it was all greatness. I envied those who went about their lives on their farms, tending to their horses or cows, or just sitting outside on their patio. What a place to live!</p>

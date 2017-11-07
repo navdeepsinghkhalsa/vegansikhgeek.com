@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: A Different Perspective on August 31, 1995
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 52
-wordpress_url: http://vegansikhgeek.com/a-different-perspective-on-august-31-1995/
 image: 
 date: '2012-03-20 17:33:30 -0700'
 date_gmt: '2012-03-21 00:33:30 -0700'
 categories:
 - Sikhi
-tags: []
-comments: []
 ---
 <p>Question: Who is currently on death row, eagerly anticipating being hanged to death on March 31, 2012?<br /><em>"Easy. Everyone is talking about it, it's all over the Punjabi news, and every other post (or more) on Facebook is about it: Bhai (Brother) Balwant Singh Rajoana."</em></p>
 <p>Question: With what is Bhai Balwant Singh charged?<br /><em>"Alright, had to think about it/look it up, but readily available information: He masterminded the plot to assassinate Beant Singh (who was responsible for the deaths of thousands of Sikhs)."</em></p>

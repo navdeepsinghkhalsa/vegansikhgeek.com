@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: My Next Month Without, and YouTube Results
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 9
-wordpress_url: http://vegansikhgeek.com/my-next-month-without-and-youtube-results/
 image: 
 date: '2013-09-06 04:07:40 -0700'
 date_gmt: '2013-09-06 11:07:40 -0700'
 categories:
 - Minimalism
-tags: []
-comments: []
 ---
 <p>Not interested in my YouTube experiment but want to read about next months? <a href="#nextmonth" target="_blank">Skip the next paragraph.</a></p>
 <p>Last month, inspired by Leo Babauta's A Year of Living Without, I gave up using YouTube. It wasn't easy. There were so many things that I was reminded of throughout the month that would be fun to watch or great to learn. While podcasts certainly helped, there were still times when I caught myself finding other avenues to waste time. If it wasn't YouTube, it was Wikipedia. If it wasn't Wikipedia, it was IMDb. If it wasn't IMDb, it was another wiki. The problem was never YouTube. Just like so many other tools, it's how you use them that determines their worth. I'm working on using my free time effectively and have a much better handle on things. Now that the month is over, I decided to not give up YouTube entirely, but certainly limit my activities on it. I created a Chrome extension which hides related videos so there's less temptation to click ahead and I'll still have podcasts to keep my listening engaged. I'm very happy that I gave up YouTube as I might not have had the realization that the problem wasn't YouTube. Now that I'm working on myself, I can recognize the problem as it comes up and stop it in its tracks.</p>

@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: New Bikes and More Riding
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 75
-wordpress_url: http://vegansikhgeek.com/new-bikes-and-more-riding/
 image: 
 date: '2010-05-04 21:11:12 -0700'
 date_gmt: '2010-05-04 21:11:12 -0700'
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>We got new bikes! Arshdeep Kaur got the <a href="http://norco.com/bikes/mountain/forma/orn/" target="_blank">Orn</a> and I got the <a href="http://norco.com/bikes/urban/xfr/xfr-three/" target="_blank">XFR Three</a> and both are Norco, of course.<br />
 We went out for a ride and Pitaa Jee (dad) came as well; he's claimed the <a href="http://navdeepsingh.ca/2010/04/first-ride-of-the-2010-season/" target="_blank">Santiago</a> as his (but doesn't know that I'll still be taking it out from time to time). Honestly, riding the cruiser is so chiller, if I may use some slang. The seat is nice and cushioned, and 29" wheels means a nearly effortless ride. It was a sunny Saturday afternoon and an awesome day to ride. We've got some photos up on <a href="http://www.flickr.com/photos/nav-it-singh/sets/72157623992556342/" target="_blank">Flickr</a>.</p>

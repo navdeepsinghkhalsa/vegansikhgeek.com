@@ -1,26 +1,11 @@
 ---
-layout: post
-status: publish
-published: true
 title: The Lord Hath Taken Away
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 403
-wordpress_url: http://www.vegansikhgeek.com/?p=403
 image: 66H.jpg
 date: '2017-04-24 02:18:54 -0700'
 date_gmt: '2017-04-24 09:18:54 -0700'
 categories:
 - Sikhi
 - Life
-tags: []
-comments: []
 ---
 <p>One week ago, by the will of the universe, my NaaneeJee (mother's mother) breathed the last breath made available to her in this life.</p>
 <p>She was a beautiful soul whose capacity for love showed no end. Although I have many memories of her, when I think back to recall anything, what comes to the foreground of my mind most overwhelmingly is simply her love that she showed in every moment.</p>

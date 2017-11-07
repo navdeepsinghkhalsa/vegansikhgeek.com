@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Calmness in the Rush
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 172
-wordpress_url: http://www.vegansikhgeek.com/?p=172
 image: 
 date: '2015-04-02 13:00:40 -0700'
 date_gmt: '2015-04-02 20:00:40 -0700'
 categories:
 - Life
-tags: []
-comments: []
 ---
 <p>I was walking to my parents' house one evening when I saw another pedestrian crossing the street ahead of me at a 4-way stop. A driver came up and stopped where the pedestrian was crossing in front of him. In the span of 2-4 seconds, his expression changed dramatically from somewhat neutral to visibly agitated. He eyed the pedestrian and hit the accelerator as soon as there was enough clearance.</p>
 <p>I don't judge him personally. He might have needed to attend to a medical emergency and get there as quickly as possible. I do know, however, that it's a common enough occurrence to suggest that, many times, a lack of patience is what aggravates drivers when it comes to pedestrians and cyclists. A motor vehicle is capable of travelling fast, and perhaps it's thought that someone who elects to travel by slower means shouldn't get in the way of our powerful machines. Our lack of patience can lead to aggression, and we're filled with a false sense of power, as though we've melded with the vehicle and its strength has been transferred to us.</p>

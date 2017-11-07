@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Call it what it is
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 50
-wordpress_url: http://vegansikhgeek.com/call-it-what-it-is/
 image: 
 date: '2012-06-12 05:48:27 -0700'
 date_gmt: '2012-06-12 05:48:27 -0700'
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>Don't code in Java and still call it an iOS app. Stick with the standards.</p>
 <p>Don't hit the ball with a racket and still call it golf. Start a new sport.</p>

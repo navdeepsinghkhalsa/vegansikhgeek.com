@@ -7,6 +7,7 @@ layout: default
   {{ content }}
 
   {% for post in paginator.posts %}
+    {% assign author = site.data.authors[post.author] %}
     <article class="hentry{% if post.image %} has-post-thumbnail{% endif %}">
       {% if post.image %}
       <a href="{{ post.url }}" class="post-thumbnail" style="background-image: url({{ site.post-thumbnails }}{{ post.image }});"></a>
@@ -26,7 +27,7 @@ layout: default
           </span>
           <span class="byline">
             <span class="icon-user"></span>
-            {{ post.author.display_name }}
+            {{ author.name }}
           </span>
           <span class="cat-links">
             <span class="icon-folder-open"></span>

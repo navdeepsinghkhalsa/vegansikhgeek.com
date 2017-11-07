@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Phone Outlook
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 68
-wordpress_url: http://vegansikhgeek.com/phone-outlook/
 image: 
 date: '2010-07-12 22:09:33 -0700'
 date_gmt: '2010-07-13 05:09:33 -0700'
 categories:
 - Tech
-tags: []
-comments: []
 ---
 <p>I've been thinking for some time that I'm going to get a new phone this winter holiday. My HTC Touch Diamond has served me well, but it's left a bit to be desired. It has a beautiful screen, plenty of storage, and looks great. It's running Windows Mobile 6.1, though, which is where the problem starts. WM6.1 is such a great and horrible thing at the same time. Because the built-in browser is horrible, great browsers have been built for it. Because the built-in interface is now dated, great UI's have been placed on top of it. The battery life is not good and the camera, despite having a good resolution, only seems to perform well with natural daylight. The operating system seems to enjoy hanging once in a while, too. Anyway, it's the apps that do really well for me. I'll talk about them at the end of this post. Right now, I'm thinking about which platform might be my best option.</p>
 <p><strong>iPhone</strong><br /><br />

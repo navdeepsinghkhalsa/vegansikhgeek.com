@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Reader Question: Am I Allowed to Call Myself a Sikh?'
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 14
-wordpress_url: http://vegansikhgeek.com/great-blog-nav-i-am-in-a-conflicted-state-am-i/
 image: 
 date: '2013-04-01 13:28:48 -0700'
 date_gmt: '2013-04-01 20:28:48 -0700'
 categories:
 - Sikhi
-tags: []
-comments: []
 ---
 <blockquote>Great blog Nav. I am in a conflicted state; am I allowed to call myself a Sikh? At first glace, one would not think I am a "true Sikh" because of my appearance or even by the lifestyle I lead (consuming alcohol/meat in moderation). I drop by the temple when I feel I need it spiritually or for special occasions. What are the criteria one must follow to be a true Sikh? If I am on a spiritual journey internally does my appearance really matter? Can I consider myself to be a "religious person"?</blockquote>
 <p>Thank you very kindly.</p>

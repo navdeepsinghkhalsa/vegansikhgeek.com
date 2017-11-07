@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Goodbye, YouTube. See you in a month. Or not.
-author:
-  display_name: Navdeep Singh
-  login: vsg
-  email: me@navdeepsingh.ca
-  url: http://www.navdeepsingh.ca
-author_login: vsg
-author_email: me@navdeepsingh.ca
-author_url: http://www.navdeepsingh.ca
-wordpress_id: 13
-wordpress_url: http://vegansikhgeek.com/goodbye-youtube-see-you-in-a-month-or-not/
 image: 
 date: '2013-08-02 02:35:25 -0700'
 date_gmt: '2013-08-02 09:35:25 -0700'
 categories:
 - Minimalism
-tags: []
-comments: []
 ---
 <p>I'm following in the footsteps of Leo Babauta and his <a href="http://zenhabits.net/without/" target="_blank">A Year of Living Without</a> experiment.</p>
 <p>YouTube is fantastic. It serves as a form of education and entertainment. There is much one can learn and experience but only slightly less that one would wish they could un-watch. While I've learned much about many subjects on YouTube, after following related link after link I sometimes find myself in what's commonly referred to as "that part of YouTube" where senselessness is the topic and time-wasting is the consequence.</p>
