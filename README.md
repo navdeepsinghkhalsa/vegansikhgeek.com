@@ -2,7 +2,7 @@
 
 Copyright (c) 2017 Navdeep Singh. All rights reserved. Distributed under the following terms:
 
-1. Content is covered by [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/). See LICENSE in _posts directory
+1. Content is covered by [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/). See [LICENSE.md](_posts/LICENSE.md) in _posts directory
 
 2. Code is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
