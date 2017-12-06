@@ -8,4 +8,4 @@ Copyright (c) 2017 Navdeep Singh. All rights reserved. Distributed under the fol
 
 3. [Icomoon](https://icomoon.io) is licensed under [GPL](http://www.gnu.org/licenses/gpl.html) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-4. Images are licensed under CC0 unless otherwise noted in [LICENSE.md](assets/images/LICENSE.md) under `assets/images`
+4. Images are licensed under CC0 unless otherwise noted in [README.md](assets/images/README.md) under `assets/images`
