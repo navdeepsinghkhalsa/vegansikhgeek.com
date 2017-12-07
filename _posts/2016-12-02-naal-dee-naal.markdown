@@ -1,6 +1,6 @@
 ---
 title: Naal Dee Naal
-image: 
+image: wp9ylk_vki8-jennifer-burk.jpg
 date: '2016-12-02 08:15:17 -0800'
 date_gmt: '2016-12-02 16:15:17 -0800'
 categories:
@@ -13,3 +13,4 @@ categories:
 <p>This does wonders for minimizing possessions as well. Instead of putting off the task with the excuse that you have no time to go through everything, do it Naal Dee Naal over time. If something comes into your hands that you no longer need, recycle/toss it right then, or put it in a box/bag to donate to the thrift store when you fill it with enough things. These days, with the capabilities of smartphones in general and in photography capabilities, it's also very easy to list an item for sale as well. It takes just a few minutes to list and you could soon be a bit closer to the joys of owning less.</p>
 <p>Give it a try and see how you like it!</p>
 <p>Peace and blessings</p>
+<p>Photo by <a href="https://unsplash.com/photos/wP9yLk_VKI8" target="_blank">Jennifer Burk</a></p>
