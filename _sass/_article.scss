@@ -11,6 +11,10 @@
     box-shadow: 0 0 1px rgba(0, 0, 0, 0.15);
     margin: 0 7.6923%;
   }
+  
+  @media screen and (min-width: $six) {
+    margin: 0 8.3333%;
+  }
 }
 
 .hentry + .hentry {
