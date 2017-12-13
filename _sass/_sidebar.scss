@@ -91,3 +91,9 @@
     font-size: 1.2rem;
   }
 }
+
+@media screen and (min-width: $eight) {
+  body::before {
+    width: calc(50% - 289px);
+  }
+}
