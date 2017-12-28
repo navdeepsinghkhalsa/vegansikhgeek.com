@@ -2,6 +2,9 @@
 
 ### [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
+[![](./thumbs/joshua-earle-234740.jpg)](joshua-earle-234740.jpg)
+joshua-earle-234740.jpg - [Joshua Earle](https://unsplash.com/photos/-87JyMb9ZfU)
+
 [![](./thumbs/66H.jpg)](66H.jpg)
 66H.jpg - [Ryan McGuire](https://stocksnap.io/photo/2961C146BF)
 
