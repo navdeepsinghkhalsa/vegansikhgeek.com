@@ -1,6 +1,6 @@
 ---
 title: My Wardrobe
-image: 
+image: F311DFAD23-crop.jpg
 date: '2015-05-01 12:57:13 -0700'
 date_gmt: '2015-05-01 19:57:13 -0700'
 categories:
@@ -14,4 +14,5 @@ categories:
 <ol>
 <li>Someone who cares about you and is genuinely worried. It can be easily explained that this is your lifestyle choice. If they care, they'll come around.</li>
 <li>Someone to whom you don't need to cater your wardrobe.</li><br />
-</ol></p>
+</ol>
+<p>Photo by <a href="http://snapwiresnaps.tumblr.com/post/102446134397/will-milne-willmilnecom-free" target="_blank">Will Milne</a></p>
