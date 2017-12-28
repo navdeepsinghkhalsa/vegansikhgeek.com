@@ -1,6 +1,6 @@
 ---
 title: Sugar
-image: photo-1474625342403-1b8a2c0f7215.jpg
+image: /assets/images/photo-1474625342403-1b8a2c0f7215.jpg
 date: '2016-11-24 23:02:13 -0800'
 date_gmt: '2016-11-25 07:02:13 -0800'
 categories:

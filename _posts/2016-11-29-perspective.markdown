@@ -1,6 +1,6 @@
 ---
 title: Perspective
-image: photo-1453563391321-df71955e9289.jpeg
+image: /assets/images/photo-1453563391321-df71955e9289.jpeg
 date: '2016-11-29 09:00:14 -0800'
 date_gmt: '2016-11-29 17:00:14 -0800'
 categories:

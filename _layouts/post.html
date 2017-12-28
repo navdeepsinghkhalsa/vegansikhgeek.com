@@ -6,7 +6,7 @@ layout: default
 
   {% if page.image %}
     <div class="post-thumbnail">
-      <img src="{{ site.post-thumbnails }}{{ page.image }}">
+      <img src="{{ page.image | replace: site.post-images, site.post-thumbnails }}">
     </div>
   {% endif %}
 
@@ -41,7 +41,7 @@ layout: default
 
   <div class="post-list">
     {% if page.previous.url %}
-      <div style="background-image: url({{ site.post-thumbnails }}{{ page.previous.image }});">
+      <div style="background-image: url({{ page.previous.image | replace: site.post-images, site.post-thumbnails }});">
         <a class="post-link" href="{{ page.previous.url }}">
           <span class="post-meta">Previous</span>
           <h2>
@@ -51,7 +51,7 @@ layout: default
       </div>
     {% endif %}
     {% if page.next.url %}
-    <div style="background-image: url({{ site.post-thumbnails }}{{ page.next.image }});">
+    <div style="background-image: url({{ page.next.image | replace: site.post-images, site.post-thumbnails }});">
       <a class="post-link" href="{{ page.next.url }}">
         <span class="post-meta">Next</span>
         <h2>

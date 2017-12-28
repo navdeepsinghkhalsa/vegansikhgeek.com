@@ -1,6 +1,6 @@
 ---
 title: Naal Dee Naal
-image: wp9ylk_vki8-jennifer-burk.jpg
+image: /assets/images/wp9ylk_vki8-jennifer-burk.jpg
 date: '2016-12-02 08:15:17 -0800'
 date_gmt: '2016-12-02 16:15:17 -0800'
 categories:

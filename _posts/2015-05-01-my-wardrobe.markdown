@@ -1,6 +1,6 @@
 ---
 title: My Wardrobe
-image: F311DFAD23-crop.jpg
+image: /assets/images/F311DFAD23-crop.jpg
 date: '2015-05-01 12:57:13 -0700'
 date_gmt: '2015-05-01 19:57:13 -0700'
 categories:
