@@ -43,9 +43,10 @@ On the completion of these, a few more hymns may be sung, finishing with Anand S
 Another supplication is made to give thanks to Guru Jee and ask for a blessing to begin the new journey, and it is with this Hukam that the ceremony is officially complete and couple begins their new journey.
 
 What Sri Guru Granth Sahib Ji says about husband and wife is beautiful:
-ਧਨ ਪਿਰੁ ਏਹਿ ਨ ਆਖੀਅਨਿ ਬਹਨਿ ਇਕਠੇ ਹੋਇ ।।
-ਏਕ ਜੋਤ ਦੁਇ ਮੂਰਤੀ ਧਨ ਪਿਰੁ ਕਹੀਐ ਸੋਇ ।।
-They are not said to be husband and wife, who merely sit together.
+
+ਧਨ ਪਿਰੁ ਏਹਿ ਨ ਆਖੀਅਨਿ ਬਹਨਿ ਇਕਠੇ ਹੋਇ ।।  
+ਏਕ ਜੋਤ ਦੁਇ ਮੂਰਤੀ ਧਨ ਪਿਰੁ ਕਹੀਐ ਸੋਇ ।।  
+They are not said to be husband and wife, who merely sit together.  
 They alone are called husband and wife, who have one light in two bodies.
 
 With this ceremony, your individual souls are merged and become one. You begin this journey as one unit and have the love of everyone here today and the blessings of Guru Jee to navigate and share one life of betterment and truthful living. We wish you a lifetime of bliss and happiness.
