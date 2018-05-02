@@ -6,7 +6,7 @@ layout: default
 
 <div class="post-list">
 {% for post in site.posts %}
-    <div style="background-image: url({{ site.post-images }}{{ post.thumbnail }});">
+    <div style="background-image: url({{ post.image | replace: site.post-images, site.post-thumbnails }});">
     <a class="post-link" href="{{ post.url | relative_url }}">
         {% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
