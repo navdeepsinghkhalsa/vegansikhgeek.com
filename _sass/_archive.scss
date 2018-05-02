@@ -1,5 +1,5 @@
 .post-list {
-  margin: 0 7.6923%;
+  margin: 0;
   padding: 0;
 
   div {
@@ -49,10 +49,8 @@
       }
     }
   }
-}
 
-@media screen and (min-width: $three) {
-  .hentry + .post-list {
-    margin-top: 7.6923%;
+  @media screen and (min-width: $three) {
+    margin: 0  7.6923%;
   }
 }
