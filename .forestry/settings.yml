@@ -1,9 +1,17 @@
 ---
-upload_path: "/assets/images/"
-frontmatter_file_url_template: "/assets/images/"
-body_file_url_template: "/assets/images/"
 new_page_extension: markdown
 auto_deploy: false
 admin_path: 
 webhook_url: 
-collections: 
+sections:
+- type: jekyll-posts
+  label: Posts
+  create: all
+- type: jekyll-pages
+  label: Pages
+  create: all
+upload_dir: assets/images
+public_path: "/assets/images"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
