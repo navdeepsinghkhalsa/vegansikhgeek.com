@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Vegan Sikh Geek - Navdeep Singh`,
+    author: `Navdeep Singh`,
+    description: `Navdeep Singh's journey in Sikhi, veganism, minimalism, and life.`,
+    siteUrl: `https://www.vegansikhgeek.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `navdeepsingh`,
     },
   },
   plugins: [
