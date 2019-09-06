@@ -55,10 +55,11 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode })
+    const [yyyy, mm, dd, ...slug] = value.split('-')
     createNodeField({
       name: `slug`,
       node,
-      value,
+      value: `/${slug.join('-')}`,
     })
   }
 }
