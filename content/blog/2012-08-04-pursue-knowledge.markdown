@@ -7,4 +7,3 @@ categories:
 - Uncategorized
 ---
 <blockquote>It is important to gain an understanding of other perspectives so that resolve may be greater when emerging from deliberation.</blockquote>
-

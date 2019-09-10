@@ -7,4 +7,4 @@ categories:
 - Uncategorized
 ---
 <blockquote>The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel.</blockquote>
-<div class="attribution">Steve Furtick</div>
+Steve Furtick
