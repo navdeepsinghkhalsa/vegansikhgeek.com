@@ -30,12 +30,12 @@ Akaal Sahaai
 
 I'm thinking of having a section on this site that lists the hardware and software I use (possibly with reviews), because I have many great discussions with people on what gadgets work well. For now, I'll just list my essential phone apps here:
 
-Gurbani: <a href="http://www.gurbanianywhere.com/" target="_blank">Gurbani Anywhere</a><br />
-Browser: <a href="http://www.opera.com/mobile/" target="_blank">Opera Mobile</a><br />
-Twitter: <a href="http://touchtwit.net" target="_blank">TouchTwit</a><br />
-Security/Home screen: <a href="http://67.43.3.117/~acs2co/S2U2-index.html" target="_blank">S2U2</a><br />
-File Browsing: <a href="http://www.ghisler.com/" target="_blank">Total Commander</a><br />
-Media Player: <a href="http://kinoma.com/freeplay/get/" target="_blank">Kinoma FreePlay</a><br />
-Maps: <a href="http://www.google.com/mobile/maps/" target="_blank">Google Maps Mobile</a><br />
-Reason for not having to reboot every day: <a href="http://forum.xda-developers.com/showthread.php?t=514333" target="_blank">cleanRAM</a><br />
+Gurbani: <a href="http://www.gurbanianywhere.com/" target="_blank">Gurbani Anywhere</a>  
+Browser: <a href="http://www.opera.com/mobile/" target="_blank">Opera Mobile</a>  
+Twitter: <a href="http://touchtwit.net" target="_blank">TouchTwit</a>  
+Security/Home screen: <a href="http://67.43.3.117/~acs2co/S2U2-index.html" target="_blank">S2U2</a>  
+File Browsing: <a href="http://www.ghisler.com/" target="_blank">Total Commander</a>  
+Media Player: <a href="http://kinoma.com/freeplay/get/" target="_blank">Kinoma FreePlay</a>  
+Maps: <a href="http://www.google.com/mobile/maps/" target="_blank">Google Maps Mobile</a>  
+Reason for not having to reboot every day: <a href="http://forum.xda-developers.com/showthread.php?t=514333" target="_blank">cleanRAM</a>  
 I back up my texts with <a href="http://sn1-p3.myphone.microsoft.com/mkweb/Start.po?mkt=en-US" target="_blank">Microsoft My Phone</a> and my contacts, calendar and email are with Google.

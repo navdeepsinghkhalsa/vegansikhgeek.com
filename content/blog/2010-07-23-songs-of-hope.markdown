@@ -8,9 +8,9 @@ categories:
 ---
 Recently, I've been listening to the same songs over and over again. ("What? You listen to western music? Manmat!") These songs have messages of Sarbat Daa Bhallaa (Well-being of All), compassion and unity. Over and over and over. Listening to them brings a feeling of wanting to serve others. On YouTube, these tracks have millions of views, and there have likely been many, many purchases on Amazon, iTunes, etc. This means that this basic message of love has entered the minds of millions of individuals. From wherever the message may come, be it scriptures, songs, enlightened souls, or within, that's beautiful. We just need to internalize it and live it as humans. Perhaps more of us, starting with myself, will wake up and truly realize that we're so focused on the micro that we don't realize that, at the macro level, many of those things on which we waste our time/energy/emotions just don't matter.
 
-I've also realized a couple of other things while listening to/watching these:<br />
-1. Nikki Yanofsky rocks!<br />
-2. Celine Dion is a vocal master<br />
+I've also realized a couple of other things while listening to/watching these:
+1. Nikki Yanofsky rocks!
+2. Celine Dion is a vocal master
 3. The Olympics in Vancouver were awesome
 
 Care to share anything that inspires you to be a humanitarian? Would love to know about it in the comments.
