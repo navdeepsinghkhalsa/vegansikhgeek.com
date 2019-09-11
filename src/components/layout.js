@@ -63,9 +63,9 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          Copyright © 2010 - {new Date().getFullYear()} Navdeep Singh.
-          {` `}
-          <a href="https://github.com/navdeepsinghkhalsa/vegansikhgeek.com/tree/master/POSTS_LICENSE.md">See license</a>.
+          <a href="https://github.com/navdeepsinghkhalsa/vegansikhgeek.com/tree/master/POSTS_LICENSE.md">Copyright License</a>
+          {' - '}
+          <a href="/archives">Archives</a>
         </footer>
       </div>
     )
