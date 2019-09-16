@@ -4,44 +4,52 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
+import { rhythm, scale } from "../utils/typography"
 
 class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
-    const posts = data.allMarkdownRemark.edges
+    const post = data.allMarkdownRemark.edges[0].node
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All posts" />
         <Bio />
-        {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug
-          return (
-            <article key={node.fields.slug}>
-              <header>
-                <h3
-                  style={{
-                    marginBottom: rhythm(1 / 4),
-                  }}
-                >
-                  <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                    {title}
-                  </Link>
-                </h3>
-                <small>{node.frontmatter.date}</small>
-              </header>
-              <section>
-                <p
-                  dangerouslySetInnerHTML={{
-                    __html: node.excerpt,
-                  }}
-                />
-              </section>
-            </article>
-          )
-        })}
+        <article>
+          <header>
+            <h1
+              style={{
+                marginTop: rhythm(1),
+                marginBottom: 0,
+              }}
+            >
+              <Link style={{ boxShadow: `none`, color: '#000' }} to={post.fields.slug}>
+                {post.frontmatter.title}
+              </Link>
+            </h1>
+            <p
+              style={{
+                ...scale(-1 / 5),
+                display: `block`,
+                marginBottom: rhythm(1),
+              }}
+            >
+              {post.frontmatter.date}
+            </p>
+          </header>
+          <section dangerouslySetInnerHTML={{ __html: post.html }} />
+          <hr
+            style={{
+              marginBottom: rhythm(1),
+            }}
+          />
+          <footer>
+            <h3>
+              <Link to="/archives">See all posts »</Link>
+            </h3>
+          </footer>
+        </article>
       </Layout>
     )
   }
@@ -54,11 +62,13 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        author
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }, limit: 1) {
       edges {
         node {
+          id
           excerpt
           fields {
             slug
@@ -67,6 +77,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
           }
+          html
         }
       }
     }

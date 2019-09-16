@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Vegan Sikh Geek - Navdeep Singh`,
+    title: `Vegan Sikh Geek`,
     author: `Navdeep Singh`,
     description: `Navdeep Singh's journey in Sikhi, veganism, minimalism, and life.`,
     siteUrl: `https://www.vegansikhgeek.com/`,
