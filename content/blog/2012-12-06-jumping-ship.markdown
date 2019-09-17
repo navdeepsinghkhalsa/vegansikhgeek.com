@@ -9,5 +9,3 @@ categories:
 I was almost done writing a long post about changing phones and being unhappy with carriers, but realized that there is so much in the world for which to be thankful and so many people who don't have the luxury of complaining about such things because they're too busy trying to survive. I deleted everything I wrote, kept the title, and will just try to be a better person. Good day.
 
 God Bless.
-
-Photo Credit: <a href="http://www.charitywater.org" target="_blank">charity: water</a>

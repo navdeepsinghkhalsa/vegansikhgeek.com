@@ -13,5 +13,3 @@ A loved one passes away and suddenly everything changes. Arguments in the past t
 When loss is felt, pain is the symptom. It can be so consuming that there simply isn't time to feel pain for the small matters in our day-to-day lives. The degree is high, but we have the ability to heal over time. Inevitably, pain becomes numb and we get used to our new reality. Sometimes I wonder, though, if many of us have a particular need to feel a certain amount of pain in life. It would be great if we could continue to let go of small matters in light of the bigger picture blessing to be alive, but with the pain being numbed, having availability to feel other pains almost seems to make us seek them out. What was insignificant becomes significant because we have extra energy to put toward it.
 
 If instead we could keep the perspective that life has an end, our appreciation for the present would increase exponentially. Insignificant matters could remain as such and we could focus on making our lives fulfilling. Remembering that you will die is the greatest way to live.
-
-Photo by <a href="https://unsplash.com/photos/kSLNVacFehs" target="_blank">Ran Berkovich</a>

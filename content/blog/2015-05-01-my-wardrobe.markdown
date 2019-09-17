@@ -19,5 +19,3 @@ A big part of this has to do with the way one thinks. If I cared too much about 
 
 1. Someone who cares about you and is genuinely worried. It can be easily explained that this is your lifestyle choice. If they care, they'll come around.
 2. Someone to whom you don't need to cater your wardrobe.
-
-Photo by <a href="http://snapwiresnaps.tumblr.com/post/102446134397/will-milne-willmilnecom-free" target="_blank">Will Milne</a>

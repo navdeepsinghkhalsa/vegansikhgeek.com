@@ -18,5 +18,3 @@ This does wonders for minimizing possessions as well. Instead of putting off the
 Give it a try and see how you like it!
 
 Peace and blessings
-
-Photo by <a href="https://unsplash.com/photos/wP9yLk_VKI8" target="_blank">Jennifer Burk</a>

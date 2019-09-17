@@ -17,5 +17,3 @@ Another thing is that I've probably set a record for having the most "first day 
 Putting the two together, I seem to have come upon the winning formula: Discipline comes with deep desire and focus. In order to keep discipline, the mind must hunger for that change. Internally, a strong desire felt will lend to that determination to keep up the practice. Focus comes with eliminating distractions. By giving oneself the mental resources to put toward making a single change, the mind doesn't exhaust itself of its capacity and willingness to improve.
 
 At another point in my life, I might have called it "going hardcore" on something, while some might call it "turning it up to 11." Today, I call it "turning it up to vegan" to indicate the level to which I am dialing up my focus with the shift in mindset.
-
-Photo by <a href="https://unsplash.com/@joshuaearle" target="_blank">Joshua Earle</a>

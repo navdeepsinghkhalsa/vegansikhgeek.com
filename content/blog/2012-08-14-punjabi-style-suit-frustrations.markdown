@@ -6,8 +6,6 @@ date_gmt: '2012-08-14 07:34:45 -0700'
 categories:
 - Life
 ---
-Photo Credit: <a href="https://www.flickr.com/photos/angelacoles/378037941/">Angela Coles</a>
-
 Why would a man be frustrated with Punjabi suits, a female article of clothing? As husbands, we have to either be involved in or witness/hear about the incredible inefficiency that is the preparation, dawning and removal of these ridiculous garments. As you read this, keep in mind I'm mostly referring to the fancy, decorative suits which are more trouble than they're worth.
 
 First of all, the Salwaar doesn't even come with the Nala (string) to tie it at the waist. The shopkeepers aren't selling dress pants here, where they have huge margins on the belts and the consumer has choices on style, colour and material. We're talking about a strip of sewn cloth which ties as a string, never to be seen; to include this is a no-brainer. For the less lucky ones who don't have a relative or friend to make one for every suit, if the suit that is wanted to be worn has no Nala, one of the suits which actually has one needs to be found and have its Nala extracted. What would follow is the process of threading it through the waist tunnel of the Salwaar by means of wrapping it around a pencil twice and pushing/pulling the pencil through. God help you if it unwraps somewhere near the end and the pencil comes out the other end without a Nala attached.

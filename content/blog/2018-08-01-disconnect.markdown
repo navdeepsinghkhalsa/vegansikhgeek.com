@@ -17,5 +17,3 @@ Skipping ahead a few months to three days ago, we've come back home from our fir
 The immersion that I felt was a breath of fresh air. In each activity, I was wholly present. Distraction and thoughts from within still came, of course: I didn't suddenly become one with the universe. However, without a means to act on that distraction by taking out my phone and opening up Feedly, for example, it was a much quicker route back to the present. I'm someone who uses his phone throughout the day to multitask and fill downtime with listening to podcasts, watching YouTube videos, reading news, and managing to-do lists and finances. With the decision to keep the phone absent, single-tasking became the norm and downtime was felt for what it was. Observing the stars became my YouTube, chatter from birds and neighbouring campers became my Stitcher, and my own thoughts/observations became the news.
 
 We're going again in a few weeks and I'm very much looking forward to reliving the experience.
-
-Photo by <a href="https://unsplash.com/@scottagoodwill" target="_blank">Scott Goodwill</a>

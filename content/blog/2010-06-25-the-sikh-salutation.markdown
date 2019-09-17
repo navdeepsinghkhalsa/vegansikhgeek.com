@@ -6,8 +6,6 @@ date_gmt: '2010-06-25 22:21:23 -0700'
 categories:
 - Sikhi
 ---
-Photo Credit: <a href="http://www.flickr.com/photos/28248427@N08/2973711659/" target="_blank">Akiratghanare on Flickr</a>
-
 <em>The following is my opinion, just like almost everything on this blog. Please don't judge Sikhi based on my opinions.</em>
 
 Vaahiguroo Jee Kaa Khaalsaa, Vaahiguroo Jee Kee Fateh

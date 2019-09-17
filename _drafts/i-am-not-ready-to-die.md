@@ -13,5 +13,3 @@ What I mean, though, when I say that I'm not prepared is that I am leaving a mes
 My dad taught me that no matter the person, the world keeps spinning on everyone's departure from it. I trust that, were I to depart at any time, everyone could figure things out. However, I do them a disservice by not documenting and organizing now.
 
 This year, I've been making a concentrated effort to resolve this issue.
-
-Photo by [Masaaki Komori](https://unsplash.com/@gaspanik)

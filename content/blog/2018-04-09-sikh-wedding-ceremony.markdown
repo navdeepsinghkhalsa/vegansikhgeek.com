@@ -54,6 +54,3 @@ With this ceremony, your individual souls are merged and become one. You begin t
 While speaking I may have made many mistakes. I ask for the forgiveness of the gathered Sangat and our Satguru. Please join me in the Fateh
 
 Vaahiguroo Jee Kaa Khalsa, Vaahiguroo Jee Kee Fateh
-
-
-Photo by <a href="https://unsplash.com/@micheile" target="_blank">Micheile Henderson</a>

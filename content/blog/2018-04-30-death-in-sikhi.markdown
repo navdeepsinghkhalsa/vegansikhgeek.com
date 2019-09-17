@@ -108,6 +108,3 @@ Everyone's presence here and feelings for TaayaaJee are of utmost importance bec
 While speaking, I may have made many mistakes. I ask for the forgiveness of the Sangat and our Satguru. Please join me in saying the Fateh:
 
 Vaahiguroo Jee Kaa Khalsa, Vaahiguroo Jee Kee Fateh 
-
-
-Photo by <a href="https://unsplash.com/@sebamolinafotografia" target="_blank">Sebastian Molina fotografía</a>

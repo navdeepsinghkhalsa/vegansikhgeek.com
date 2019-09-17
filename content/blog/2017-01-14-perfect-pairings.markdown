@@ -26,5 +26,3 @@ Love and Everything
 I speak Truth, all should turn their ears towards it: he, who is absorbed in True Love, he would realize the Lord. 9.29.<br /><br />
 -Sri Guru Gobind Singh Ji, the 10th human form of the Sikh Guru
 </blockquote>
-
-Photo by <a href="https://unsplash.com/@josh23" target="_blank">Josh Adamski</a>
