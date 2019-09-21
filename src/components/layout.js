@@ -7,9 +7,10 @@ class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
+    const archivesPath = `${rootPath}archives`
     let header
 
-    if (location.pathname === rootPath) {
+    if (location.pathname === rootPath || location.pathname === archivesPath) {
       header = (
         <h1
           style={{
