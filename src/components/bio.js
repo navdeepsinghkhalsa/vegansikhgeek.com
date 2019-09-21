@@ -57,13 +57,13 @@ const Bio = () => {
       <p>
         Written by <strong>{author}</strong>. His work is on
         {` `}
-        <a href={`https://github.com/${social.github}`}>
+        <a href={`https://github.com/${social.github}`} target="_blank" rel="noopener noreferrer">
           GitHub
         </a>.
         {` `}
         He's also on
         {` `}
-        <a href={`https://linkedin.com/${social.linkedin}`}>
+        <a href={`https://linkedin.com/in/${social.linkedin}`} target="_blank" rel="noopener noreferrer">
           LinkedIn
         </a>.
       </p>
