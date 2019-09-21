@@ -63,9 +63,21 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          <a href="https://github.com/navdeepsinghkhalsa/vegansikhgeek.com/tree/master/POSTS_LICENSE.md">Copyright License</a>
-          {' - '}
           <a href="/archives">Archives</a>
+          {' - '}
+          <a href="https://twitter.com/vegansikhgeek" target="_blank" rel="noopener noreferrer">twitter</a>
+          {' - '}
+          <a href="https://facebook.com/vegansikhgeek" target="_blank" rel="noopener noreferrer">facebook</a>
+          {' - '}
+          <a href="https://instagram.com/vegansikhgeek" target="_blank" rel="noopener noreferrer">instagram</a>
+          {' - '}
+          <a href="https://t.me/vegansikhgeek" target="_blank" rel="noopener noreferrer">telegram</a>
+          {' - '}
+          <a href="/feed.xml" target="_blank">rss</a>
+          {' - '}
+          <a href="http://eepurl.com/bjtoFf" target="_blank" rel="noopener noreferrer">email</a>
+          <br />
+          &copy; Navdeep Singh - <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>
         </footer>
       </div>
     )
