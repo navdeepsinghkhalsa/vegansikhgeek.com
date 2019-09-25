@@ -1,6 +1,6 @@
 ---
 title: Disconnect
-image: /assets/images/scott-goodwill-359336-unsplash.jpg
+image: scott-goodwill-359336-unsplash.jpg
 date: '2018-08-02 12:18:28 -0700'
 date_gmt: '2018-08-02 12:18:28 -0700'
 categories:

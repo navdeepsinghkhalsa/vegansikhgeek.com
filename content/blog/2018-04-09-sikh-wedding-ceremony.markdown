@@ -1,6 +1,6 @@
 ---
 title: Sikh Wedding Ceremony Speech
-image: /assets/images/micheile-henderson-406428-unsplash.jpg
+image: micheile-henderson-406428-unsplash.jpg
 date: '2018-04-09 14:56:16 -0700'
 date_gmt: '2018-04-09 22:56:16 -0700'
 categories:

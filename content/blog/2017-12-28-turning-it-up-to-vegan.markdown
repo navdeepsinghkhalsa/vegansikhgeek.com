@@ -1,6 +1,6 @@
 ---
 title: Turning It Up To Vegan
-image: /assets/images/joshua-earle-234740.jpg
+image: joshua-earle-234740.jpg
 date: '2017-12-28 10:54:38 -0700'
 date_gmt: '2017-12-28 18:54:38 -0700'
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Perfect Pairings
-image: /assets/images/3fyszt4df70-josh-adamski.jpg
+image: 3fyszt4df70-josh-adamski.jpg
 date: '2017-01-14 17:30:57 -0800'
 date_gmt: '2017-01-15 01:30:57 -0800'
 categories:

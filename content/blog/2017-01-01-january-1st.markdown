@@ -1,6 +1,6 @@
 ---
 title: January 1st
-image: /assets/images/ef1h5yttmz8-annie-spratt.jpg
+image: ef1h5yttmz8-annie-spratt.jpg
 date: '2017-01-01 12:06:11 -0800'
 date_gmt: '2017-01-01 20:06:11 -0800'
 categories:

@@ -1,6 +1,6 @@
 ---
 title: The Lord Hath Taken Away
-image: /assets/images/66H.jpg
+image: 66H.jpg
 date: '2017-04-24 02:18:54 -0700'
 date_gmt: '2017-04-24 09:18:54 -0700'
 categories:

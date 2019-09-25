@@ -1,6 +1,6 @@
 ---
 title: Death in Sikhi
-image: /assets/images/sebastian-molina-fotografia-101308-unsplash.jpg
+image: sebastian-molina-fotografia-101308-unsplash.jpg
 date: '2018-04-30 16:25:48 -0700'
 date_gmt: '2018-04-30 16:25:24 -0700'
 categories:
