@@ -1,0 +1,34 @@
+---
+title: Alphabet
+image: 
+date: '2012-08-10 20:15:05 -0700'
+date_gmt: '2012-08-10 20:15:05 -0700'
+categories:
+- Uncategorized
+---
+Awaken  
+Breathe  
+Concentrate  
+Develop  
+Explore  
+Focus  
+Grow  
+Heal  
+Innovate  
+Join  
+Know  
+Love  
+Meditate  
+Nurture  
+Observe  
+Practice  
+Quieten  
+Reason  
+Search  
+Think  
+Unite  
+Value  
+Witness  
+eXecute  
+Yearn  
+Zero
