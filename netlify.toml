@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://free.vegansikhgeek.com/*"
+  to = "https://1drv.ms/f/s!AqEaQ_Hz9jKsgbVboesVyaL5WXvZDg"
+  status = 302
+  force = true
