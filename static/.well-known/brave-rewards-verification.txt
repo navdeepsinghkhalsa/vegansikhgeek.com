@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: vegansikhgeek.com
+Token: e0a78a36f49995af62a7d2a3b61819ffcc15f72d7d03cab5378d74ea329da1ea
